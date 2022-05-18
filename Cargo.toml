@@ -1,7 +1,7 @@
 [package]
 name = "base58check-encode"
 description = "base58check string encoding helpers" 
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license-file = './license'
 
